@@ -1,0 +1,4 @@
+rootProject.name = 'dubbo-spring-boot-start-apache'
+include 'api'
+include 'consumer'
+
